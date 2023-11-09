@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /pages/rebairo
+permalink: /pages/nautilus
 ---
 # Hello Everyone!
 I am glad to be a part of ModellinQ Core team. This is a new beginning.
